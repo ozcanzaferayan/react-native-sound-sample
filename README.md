@@ -1,5 +1,6 @@
 # react-native-sound-sample
 Sample project about react-native-sound library
+![alt](https://raw.githubusercontent.com/ozcanzaferayan/react-native-sound-sample/master/art/screenshot.png)
 # Credits
 ## Freesounds files:
 * rain: https://freesound.org/people/InspectorJ/sounds/401277/
